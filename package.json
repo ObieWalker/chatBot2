@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.1"
+  },
+  "name": "chatbot",
+  "description": "A ChatBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/restify": "^5.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObieWalker/chatBot.git"
+  },
+  "author": "Obi Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObieWalker/chatBot/issues"
+  },
+  "homepage": "https://github.com/ObieWalker/chatBot#readme"
+}
